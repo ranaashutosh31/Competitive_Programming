@@ -1,5 +1,6 @@
 /*
 Given two arrays a[] and b[] of size n and m respectively. The task is to find the number of elements in the union between these two arrays.
+
 Input:
 5 3
 1 2 3 4 5
