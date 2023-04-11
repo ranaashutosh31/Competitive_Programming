@@ -13,6 +13,14 @@ Explanation: There is one test case
 with array as {1, 2, 3 4} and element 
 to be searched as 3.  Since 3 is 
 present at index 2, output is 2.
+
+Expected Time Complexity: O(n).
+Expected Auxiliary Space: O(1). 
+
+Constraints:
+1 <= n <= 106
+0 <= arr[i] <= 106
+0 <= x <= 105
 */
 
 class Solution{
